@@ -7,4 +7,5 @@ Projects done till now include:
 1) Housing Price Prediction
 2) IPL Data Analysis and Scores Prediction
 3) Solving Fashion MNIST using Neural Networks and Convolutional Neural Networks
+4) Building Backpropagation from Scratch
 
